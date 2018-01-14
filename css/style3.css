@@ -1,0 +1,74 @@
+body {
+
+	background-color:  	#e6e6e6;
+	
+	font-family: 'Heebo', sans-serif;
+
+}
+
+.navbar {
+	background-color: #ccccff;
+	
+}
+
+.header {
+ background-image: url(../img/background.jpg);
+ background-size: cover;
+ background-position: center;
+ font-family: 'Libre Baskerville', serif;
+}
+
+.card {
+	background-color: #f0f0f5;
+	border-color: #e6e6e6;
+	font-size: 12px;
+}
+
+.card-footer {
+	background-color: #E9967A
+}
+
+
+.image1 {
+	height: 250px;
+	width: 250px;
+	border-radius: 50%
+}
+
+.degree {
+	font-size: 18px
+}
+
+.alevels {
+	font-size: 18px
+}
+
+.GCSES {
+	font-size: 18px
+}
+
+.education {
+	font-size: 40px
+}
+
+.employment {
+	font-size: 40px
+}
+
+.interests {
+	font-size: 40px
+}
+
+.skills {
+	font-size: 40px
+}
+.title {
+	font-size: 50px
+	font-family: 'Libre Baskerville', serif;
+}
+
+
+.linkedin {
+	width: 20px; 
+}
+
